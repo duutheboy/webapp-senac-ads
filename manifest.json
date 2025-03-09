@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Payflow",
+  "short_name": "PF",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Transforme a sua forma de pagamento!",
+  "icons": [
+    {
+      "src": "/icons/icon-16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "permissions": [],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
